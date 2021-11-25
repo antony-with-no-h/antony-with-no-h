@@ -11,8 +11,6 @@
 - Python
 - Go
 - Shell
-  - Any of them.
-  - Dealt with AIX, Solaris and HPUX in a past life so bash is easy...
 - Portuguese (:brazil:)
 
 <!---
