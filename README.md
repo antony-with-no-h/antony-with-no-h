@@ -1,11 +1,16 @@
 #### antony, with no h.
 
-- Database Engineer
-  - Couchbase
-  - Postgres
-  - Oracle
-- :bricks: On-premises Database as a Service @sky-uk
-- :pencil2: Ansible collections
+- On-prem Cloud SRE @sky-uk
+  - CloudFoundry
+  - BOSH
+  - Services
+    - PostgreSQL
+    - MongoDB
+    - Redis
+    - Rabbitmq
+    - Vault
+- :bricks: Platform stability *hopefully*
+- :pencil2: *tbd*
 
 ##### Tongues
 - Python
